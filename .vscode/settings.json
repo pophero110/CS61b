@@ -1,0 +1,4 @@
+{
+  "java.testClass": "LinkedListDequeTest",
+  "java.debug.settings.onBuildFailureProceed": true
+}

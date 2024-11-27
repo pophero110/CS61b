@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+    testImplementation "com.google.truth:truth:1.4.4"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+sourceSets {
+    test {
+        java {
+            srcDirs = ['.'] // Root directory
+        }
+    }
+}
