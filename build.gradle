@@ -18,7 +18,7 @@ test {
 sourceSets {
     test {
         java {
-            srcDirs = ['.'] // Root directory
+            srcDirs = ['./src'] // Root directory
         }
     }
 }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.LinkedListDequeTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-11-27T04:36:42" hostname="Jiajins-MacBook-Air.local" time="0.03">
+  <properties/>
+  <testcase name="testAddLastToEmptyList()" classname="src.LinkedListDequeTest" time="0.013"/>
+  <testcase name="testAddFirstPreservesListCircularity()" classname="src.LinkedListDequeTest" time="0.001"/>
+  <testcase name="testMixedAddFirstAndAddLast()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddFirstConsecutively()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddLastConsecutively()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddFirstNullElement()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddLastNullElement()" classname="src.LinkedListDequeTest" time="0.001"/>
+  <testcase name="testAddLastWithDifferentTypes()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddFirstMultipleElements()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddLastPreservesListCircularity()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddLastManyElements()" classname="src.LinkedListDequeTest" time="0.002"/>
+  <testcase name="testAddLastMultipleElements()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <testcase name="testAddFirstWithDifferentTypes()" classname="src.LinkedListDequeTest" time="0.001"/>
+  <testcase name="testAddFirstManyElements()" classname="src.LinkedListDequeTest" time="0.001"/>
+  <testcase name="testAddFirstToEmptyList()" classname="src.LinkedListDequeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
